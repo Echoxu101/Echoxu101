@@ -3,9 +3,9 @@
 - 👨‍💻 I’m a Global Technical Talent Acquisition Partner at PayPal
   
 - 🌱 **What I do:**
-  Talent Sourcing
-  Networking
-  Building Relationships
+  Talent Sourcing /
+  Networking /
+  Building Relationships / 
   Enhancing Career Opportunities
 
 - 📫 How to reach out to me: ecxu@paypal.com
