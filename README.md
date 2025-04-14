@@ -8,7 +8,7 @@
   Building Relationships / 
   Enhancing Career Opportunities
 
-- 📫 How to reach out to me: ecxu@paypal.com
+- 📫 How to reach out to me: echoxu@meshy.ai
 - ⭐ My LinkedIn Profile: https://www.linkedin.com/in/echoxu101
   
 - ## 📊 My GitHub Stats
