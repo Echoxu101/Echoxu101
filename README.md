@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👨‍💻 I’m a Global Technical Talent Acquisition Partner at PayPal. My expertise covers a wide range of recruitment activities, including full cycle hiring, strategic talent mapping, direct sourcing, employer branding, talent intelligence, candidate experience and international relocations. I am good at building and expanding engineering teams from scratch.
+- 👨‍💻 I’m a Global Technical Talent Acquisition Partner at MeshyAI. My expertise covers a wide range of recruitment activities, including full cycle hiring, strategic talent mapping, direct sourcing, employer branding, talent intelligence and candidate experience. I am good at building and expanding engineering teams from scratch.
   
 - 🌱 **What I do:**
   Talent Sourcing /
