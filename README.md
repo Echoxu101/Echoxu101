@@ -6,7 +6,6 @@ I'm a Global Technical Talent Acquisition Partner, specializing in building and 
 
 [![Email Echo](assets/button-email.svg)](mailto:echox@nvidia.com) [![LinkedIn](assets/button-linkedin.svg)](https://www.linkedin.com/in/echoxu101)
 
-echox@nvidia.com · echo_xubingjie@sina.com
 
 ---
 
