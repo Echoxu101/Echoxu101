@@ -4,7 +4,7 @@ I'm a Global Technical Talent Acquisition Partner, specializing in building and 
 
 **What I do:**  Talent Sourcing · Networking · Building Relationships · Enhancing Career Opportunities
 
-[![Email Echo](assets/button-email.svg)](mailto:echox@nvidia.com) [![LinkedIn](assets/button-linkedin.svg)](https://www.linkedin.com/in/echoxu101)
+<a href="mailto:echox@nvidia.com"><img src="assets/button-email.svg" alt="Email Echo" width="70" height="24" /></a> &nbsp; <a href="https://www.linkedin.com/in/echoxu101"><img src="assets/button-linkedin.svg" alt="LinkedIn" width="86" height="24" /></a>
 
 
 ---
