@@ -8,15 +8,15 @@ I'm a Global Technical Talent Acquisition Partner, specializing in building and 
 
 ---
 
-## 💚 NVIDIA China · 技术岗位机会
+## 💚 NVIDIA China · Engineering & Technical Opportunities
 
-### [按技能寻找适合你的 NVIDIA 岗位 →](https://github.com/Echoxu101/NVIDIA-China---Jobs---Echo)
+### [Find your NVIDIA role by skill set →](https://github.com/Echoxu101/NVIDIA-China---Jobs---Echo)
 
-11 个岗位 · 6 类技术方向 · 上海 / 深圳 / 北京
+11 roles · 6 technical areas · Shanghai / Shenzhen / Beijing
 
-GPU / AI Performance / Profiling · Compiler / LLVM · AI Infrastructure / CI/CD · CPU / System Software · 自动驾驶 · Financial Services Solutions Architecture
+GPU / AI Performance / Profiling · Compiler / LLVM · AI Infrastructure / CI/CD · CPU / System Software · Autonomous Vehicles · Financial Services Solutions Architecture
 
-[浏览岗位与技能导航](https://github.com/Echoxu101/NVIDIA-China---Jobs---Echo) · [按城市查看](https://github.com/Echoxu101/NVIDIA-China---Jobs---Echo/blob/main/docs/locations.md) · [联系 Echo](mailto:echox@nvidia.com)
+[Explore roles by skill set](https://github.com/Echoxu101/NVIDIA-China---Jobs---Echo) · [Browse by location](https://github.com/Echoxu101/NVIDIA-China---Jobs---Echo/blob/main/docs/locations.md) · [Contact Echo](mailto:echox@nvidia.com)
 
 ---
 
