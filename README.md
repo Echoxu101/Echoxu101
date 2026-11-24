@@ -34,6 +34,12 @@ A tool I built to help recruiters write personalized, human-sounding outreach me
 
 ---
 
-## 📊 GitHub Stats
+## Open Source Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Echoxu101&show_icons=true&theme=default)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Echoxu101&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;disable_animations=true&amp;custom_title=Open%20Source%20Activity&amp;title_color=76B900&amp;icon_color=76B900&amp;bg_color=00000000&amp;card_width=480&amp;text_color=C9D1D9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Echoxu101&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;disable_animations=true&amp;custom_title=Open%20Source%20Activity&amp;title_color=76B900&amp;icon_color=76B900&amp;bg_color=00000000&amp;card_width=480&amp;text_color=434D58" />
+  <img alt="Echo Xu's public GitHub activity: stars, commits, pull requests, issues, and contributions" src="https://github-readme-stats.vercel.app/api?username=Echoxu101&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;disable_animations=true&amp;custom_title=Open%20Source%20Activity&amp;title_color=76B900&amp;icon_color=76B900&amp;bg_color=00000000&amp;card_width=480&amp;text_color=434D58" width="480" />
+</picture>
+
+[Explore my repositories →](https://github.com/Echoxu101?tab=repositories)
