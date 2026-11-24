@@ -4,7 +4,7 @@ I'm a Global Technical Talent Acquisition Partner, specializing in building and 
 
 **What I do:**  Talent Sourcing · Networking · Building Relationships · Enhancing Career Opportunities
 
-📫 echoxu@meshy.ai / echo_xubingjie@sina.com · [LinkedIn](https://www.linkedin.com/in/echoxu101)
+📫 echox@nvidia.com / echo_xubingjie@sina.com · [LinkedIn](https://www.linkedin.com/in/echoxu101)
 
 ---
 
