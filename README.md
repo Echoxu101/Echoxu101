@@ -2,45 +2,40 @@
 
 I'm a Global Technical Talent Acquisition Partner, specializing in building and scaling research and engineering teams from scratch. My work spans full-cycle hiring, strategic talent mapping, direct sourcing, employer branding, and candidate experience.
 
-**Talent Sourcing** · Networking · Building Relationships · Enhancing Career Opportunities
+**What I do:**  Talent Sourcing · Networking · Building Relationships · Enhancing Career Opportunities
 
 [![Email Echo](assets/button-email.svg)](mailto:echox@nvidia.com) [![LinkedIn](assets/button-linkedin.svg)](https://www.linkedin.com/in/echoxu101)
 
 
 ---
 
-## ![Careers at NVIDIA China — Engineering & Technical Opportunities](assets/career-heading.svg)
+## ![NVIDIA China · Engineering & Technical Opportunities](assets/career-heading.svg)
 
 [![Find your NVIDIA role by skill set](assets/button-find-role.svg)](https://github.com/Echoxu101/NVIDIA-China---Jobs---Echo)
 
-**11 roles** &nbsp; / &nbsp; **6 technical areas** &nbsp; / &nbsp; Shanghai · Shenzhen · Beijing
+11 roles · 6 technical areas · Shanghai / Shenzhen / Beijing
 
-**Explore by expertise**
-
-GPU · AI Performance · Profiling &nbsp; / &nbsp; Compiler · LLVM  
-AI Infrastructure · CI/CD &nbsp; / &nbsp; CPU · System Software  
-Autonomous Vehicles &nbsp; / &nbsp; Financial Services Solutions Architecture
+GPU / AI Performance / Profiling · Compiler / LLVM · AI Infrastructure / CI/CD · CPU / System Software · Autonomous Vehicles · Financial Services Solutions Architecture
 
 [Explore roles by skill set](https://github.com/Echoxu101/NVIDIA-China---Jobs---Echo) · [Browse by location](https://github.com/Echoxu101/NVIDIA-China---Jobs---Echo/blob/main/docs/locations.md) · [Contact Echo](mailto:echox@nvidia.com)
 
 ---
 
-## ![Things I Build — Projects](assets/projects-heading.svg)
+## ![Projects](assets/projects-heading.svg)
 
 ### [Recruiter Outreach Generator](https://echoxu101.github.io/recruiter-outreach-generator/)
 A tool I built to help recruiters write personalized, human-sounding outreach messages in seconds — no more copy-paste templates.
 
-**Features**
-
-- Analyze any GitHub profile, personal website, or open source page
-- Upload a candidate's resume (PDF) for instant personalization
-- Choose tone (Professional, Friendly, Casual, Enthusiastic)
-- Supports Email, LinkedIn, WhatsApp, and WeChat
-- Generate messages in English, 中文, 日本語, Español, Français, and Deutsch
+**Features:**
+- 🔗 Analyze any GitHub profile, personal website, or open source page
+- 📄 Upload a candidate's resume (PDF) for instant personalization
+- 🎯 Choose tone (Professional, Friendly, Casual, Enthusiastic)
+- 💬 Supports Email, LinkedIn, WhatsApp, and WeChat
+- 🌍 Generate messages in English, 中文, 日本語, Español, Français, and Deutsch
 
 ---
 
-## ![Beyond Recruiting — Open Source Activity](assets/activity-heading.svg)
+## ![Open Source Activity](assets/activity-heading.svg)
 
 [View my contributions and activity on GitHub →](https://github.com/Echoxu101?tab=overview)
 
